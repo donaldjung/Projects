@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "react-app": "^1.1.2"
   }
 }
